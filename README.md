@@ -1,1 +1,8 @@
-Hi This Hazari Arshi
+Hi This Hazari Arshi, A test dyanmins test engineer, perfroming testing on CRM moduels like sales, customer services, markeeting etc... 
+Here, I'm added some files for demo purposes just these are easyrepro framwork to automate the dynamics model driven apps , 
+These files conatins sample of code:
+1. Auotamte bussince process setp A to Z...
+2. Also, switch stages after process is done..
+3. And if our test is run I'm generting report with failure test snapshoot...
+
+   Thanks.. 
